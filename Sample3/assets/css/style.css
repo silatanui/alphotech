@@ -878,10 +878,13 @@ section {
   overflow: hidden;
   margin-bottom: 15px;
   border-radius: 0;
+ 
 }
 
 .services .card .card-img img {
   transition: 0.3s ease-in-out;
+  height:30vh;
+  width: 100%;
 }
 
 .services .card h3 {
