@@ -2273,7 +2273,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #1ed33c;
+  color: var(--primary-color);
   font-size: 18px;
   line-height: 1;
 }
@@ -2345,7 +2345,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #2ae149;
+  background: var(--primary-color);
 }
 
 #footer .credits {
